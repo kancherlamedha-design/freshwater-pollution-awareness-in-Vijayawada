@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  color: #051957; /* navy blue color */
+}
+
+body {
+  background-color: #ADD8E6; /* Light blue color */
+}
+
+/* style.css */
+body {
+  font-family: 'Comfortaa', sans-serif; /
+}
+
+/* style.css */
+h1 {
+  font-family: 'Times new roman', sans-serif; /
+}
+
+/* style.css */
+p {
+  font-family: 'comic sans', sans-serif; 
+
+
+  /* style.css */
+  img {
+    border-color: 5px solid #370660; /* dark purple color */
+  }
+h2
+
+    img {
+      border; 5px solid #e85971;
+
+  /* border-width: 150px ; */
+img.bordered-image {
+  border: 5px solid #e85971;
+}
